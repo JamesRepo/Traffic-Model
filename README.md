@@ -1,6 +1,6 @@
 # Traffic-Model
 
-Program to model an self driving cars using an intersection.
+Program to model self driving cars using an intersection.
 
 Uses threading and concurrency.
 
